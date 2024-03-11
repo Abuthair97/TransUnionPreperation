@@ -1,0 +1,3 @@
+ Polymorphism allows objects of different classes to be treated as objects
+ of a common base class. It enables a single interface to represent different types
+ and is often expressed through method overloading or method overriding.
