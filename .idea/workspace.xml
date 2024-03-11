@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7756f1f4-3a9e-43ce-aab0-16ec63c8644f" name="Changes" comment="OOPS Practice">
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/ArmStromNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/GreatCommonDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/PrintAllDivisorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/primeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/sumOfAllDivisibles.java" afterDir="false" />
+    <list default="true" id="7756f1f4-3a9e-43ce-aab0-16ec63c8644f" name="Changes" comment="CodingMathsPractice">
+      <change afterPath="$PROJECT_DIR$/DSA_LogicBuildingParterns/StiverPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_LogicBuildingParterns/StriverPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_LogicBuildingParterns/StriverPattern3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +50,9 @@
     "Application.Polymorphism.methodOverriding.main.executor": "Run",
     "Application.PrintAllDivisorable.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
+    "Application.StiverPattern1.executor": "Run",
+    "Application.StriverPattern2.executor": "Run",
+    "Application.StriverPattern3.executor": "Debug",
     "Application.main.executor": "Run",
     "Application.primeNumber.executor": "Run",
     "Application.sumOfAllDivisibles.executor": "Run",
@@ -72,13 +70,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.primeNumber">
-    <configuration name="ArmStromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.ArmStromNumber" />
+  <component name="RunManager" selected="Application.StriverPattern4">
+    <configuration name="StiverPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_LogicBuildingParterns.StiverPattern1" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Basic_Maths.*" />
+          <option name="PATTERN" value="DSA_LogicBuildingParterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatCommonDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.GreatCommonDecimal" />
+    <configuration name="StriverPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_LogicBuildingParterns.StriverPattern2" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Basic_Maths.*" />
+          <option name="PATTERN" value="DSA_LogicBuildingParterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAllDivisorable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.PrintAllDivisorable" />
+    <configuration name="StriverPattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_LogicBuildingParterns.StriverPattern3" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Basic_Maths.*" />
+          <option name="PATTERN" value="DSA_LogicBuildingParterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StriverPattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_LogicBuildingParterns.StriverPattern4" />
+      <module name="TransUnionPreperation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA_LogicBuildingParterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfAllDivisibles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.sumOfAllDivisibles" />
-      <module name="TransUnionPreperation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA_Basic_Maths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StriverPattern4" />
+        <item itemvalue="Application.StriverPattern3" />
+        <item itemvalue="Application.StriverPattern2" />
+        <item itemvalue="Application.StiverPattern1" />
         <item itemvalue="Application.primeNumber" />
-        <item itemvalue="Application.sumOfAllDivisibles" />
-        <item itemvalue="Application.PrintAllDivisorable" />
-        <item itemvalue="Application.ArmStromNumber" />
-        <item itemvalue="Application.GreatCommonDecimal" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710137656016</updated>
-      <workItem from="1710137657432" duration="10706000" />
+      <workItem from="1710137657432" duration="13834000" />
     </task>
     <task id="LOCAL-00001" summary="OOPS Practice">
       <option name="closed" value="true" />
@@ -189,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710146849710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CodingMathsPractice">
+      <option name="closed" value="true" />
+      <created>1710152963506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710152963506</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +203,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OOPS Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPS Practice" />
+    <MESSAGE value="CodingMathsPractice" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodingMathsPractice" />
   </component>
 </project>
