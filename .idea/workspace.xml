@@ -68,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StriverPattern4">
+  <component name="RunManager" selected="Application.StriverPattern5">
     <configuration name="StiverPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA_LogicBuildingParterns.StiverPattern1" />
       <module name="TransUnionPreperation" />
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.primeNumber" />
+    <configuration name="StriverPattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_LogicBuildingParterns.StriverPattern5" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Basic_Maths.*" />
+          <option name="PATTERN" value="DSA_LogicBuildingParterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StriverPattern5" />
         <item itemvalue="Application.StriverPattern4" />
         <item itemvalue="Application.StriverPattern3" />
         <item itemvalue="Application.StriverPattern2" />
         <item itemvalue="Application.StiverPattern1" />
-        <item itemvalue="Application.primeNumber" />
       </list>
     </recent_temporary>
   </component>
