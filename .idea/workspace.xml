@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7756f1f4-3a9e-43ce-aab0-16ec63c8644f" name="Changes" comment="OOPS Practice" />
+    <list default="true" id="7756f1f4-3a9e-43ce-aab0-16ec63c8644f" name="Changes" comment="OOPS Practice">
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/ArmStromNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/GreatCommonDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/PrintAllDivisorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/primeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Basic_Maths/sumOfAllDivisibles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,14 +42,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArmStromNumber.executor": "Run",
     "Application.Bank.executor": "Run",
     "Application.BankMain.executor": "Run",
     "Application.CalculatorMain.executor": "Run",
     "Application.CarMain.executor": "Debug",
+    "Application.CheckPalindrome.executor": "Run",
+    "Application.CountDigits.executor": "Run",
+    "Application.GreatCommonDecimal.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.Inheritance.main.executor": "Run",
     "Application.Polymorphism.methodOverriding.main.executor": "Run",
+    "Application.PrintAllDivisorable.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.primeNumber.executor": "Run",
+    "Application.sumOfAllDivisibles.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -54,13 +72,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inheritance.main">
-    <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Bank.BankMain" />
+  <component name="RunManager" selected="Application.primeNumber">
+    <configuration name="ArmStromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.ArmStromNumber" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.Bank.*" />
+          <option name="PATTERN" value="DSA_Basic_Maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.methodOverloading.CalculatorMain" />
+    <configuration name="GreatCommonDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.GreatCommonDecimal" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.methodOverloading.*" />
+          <option name="PATTERN" value="DSA_Basic_Maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.main" />
+    <configuration name="PrintAllDivisorable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.PrintAllDivisorable" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="DSA_Basic_Maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism.methodOverriding.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.methodOverriding.main" />
+    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.primeNumber" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.methodOverriding.*" />
+          <option name="PATTERN" value="DSA_Basic_Maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.main" />
+    <configuration name="sumOfAllDivisibles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Basic_Maths.sumOfAllDivisibles" />
       <module name="TransUnionPreperation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstraction.*" />
+          <option name="PATTERN" value="DSA_Basic_Maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Inheritance.main" />
-        <item itemvalue="Application.Polymorphism.methodOverriding.main" />
-        <item itemvalue="Application.CalculatorMain" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.BankMain" />
+        <item itemvalue="Application.primeNumber" />
+        <item itemvalue="Application.sumOfAllDivisibles" />
+        <item itemvalue="Application.PrintAllDivisorable" />
+        <item itemvalue="Application.ArmStromNumber" />
+        <item itemvalue="Application.GreatCommonDecimal" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710137656016</updated>
-      <workItem from="1710137657432" duration="6417000" />
+      <workItem from="1710137657432" duration="10706000" />
     </task>
     <task id="LOCAL-00001" summary="OOPS Practice">
       <option name="closed" value="true" />
@@ -163,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710146792692</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OOPS Practice">
+      <option name="closed" value="true" />
+      <created>1710146849710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710146849710</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
