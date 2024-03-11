@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7756f1f4-3a9e-43ce-aab0-16ec63c8644f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstraction/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstraction/circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstraction/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/Bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/Bank/BankMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/Car/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/methodOverloading/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/methodOverloading/CalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/methodOverriding/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/methodOverriding/circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/methodOverriding/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/methodOverriding/rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TransUnionPreperation.iml" afterDir="false" />
-    </list>
+    <list default="true" id="7756f1f4-3a9e-43ce-aab0-16ec63c8644f" name="Changes" comment="OOPS Practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -63,6 +37,7 @@
     "Application.CalculatorMain.executor": "Run",
     "Application.CarMain.executor": "Debug",
     "Application.Hello.executor": "Run",
+    "Application.Inheritance.main.executor": "Run",
     "Application.Polymorphism.methodOverriding.main.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -170,11 +145,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710137656016</updated>
-      <workItem from="1710137657432" duration="6104000" />
+      <workItem from="1710137657432" duration="6417000" />
     </task>
+    <task id="LOCAL-00001" summary="OOPS Practice">
+      <option name="closed" value="true" />
+      <created>1710146755456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710146755456</updated>
+    </task>
+    <task id="LOCAL-00002" summary="OOPS Practice">
+      <option name="closed" value="true" />
+      <created>1710146792692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710146792692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OOPS Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPS Practice" />
   </component>
 </project>
